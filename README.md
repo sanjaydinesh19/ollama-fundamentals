@@ -54,3 +54,9 @@ Install Ollama from `https://ollama.com` and start it:
 ```bash
 ollama run llama3.2
 ```
+
+### 5. Tutorial to follow along
+YouTube Link:
+```bash
+https://www.youtube.com/watch?v=GWB9ApTPTv4
+```
