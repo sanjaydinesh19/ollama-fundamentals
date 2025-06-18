@@ -56,5 +56,4 @@ ollama run llama3.2
 ```
 
 ### 5. Tutorial to follow along
-YouTube Link:
 [![Ollama Fundamentals Course](https://img.youtube.com/vi/GWB9ApTPTv4/0.jpg)](https://www.youtube.com/watch?v=GWB9ApTPTv4)
