@@ -1,0 +1,51 @@
+Milk
+Eggs
+Bread
+Butter
+Cheese
+Yogurt
+Chicken
+Beef
+Pork
+Fish
+Apples
+Bananas
+Oranges
+Grapes
+Strawberries
+Blueberries
+Lettuce
+Spinach
+Carrots
+Tomatoes
+Onions
+Garlic
+Potatoes
+Cucumbers
+Bell Peppers
+Broccoli
+Cauliflower
+Zucchini
+Mushrooms
+Green Beans
+Corn
+Peas
+Rice
+Pasta
+Flour
+Sugar
+Salt
+Black Pepper
+Olive Oil
+Vegetable Oil
+Vinegar
+Soy Sauce
+Honey
+Peanut Butter
+Jam
+Cereal
+Oats
+Coffee
+Tea
+Juice
+Water

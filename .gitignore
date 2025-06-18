@@ -1,0 +1,17 @@
+# Ignore virtual environments and packages
+venv/
+__pycache__/
+*.pyc
+
+# Ignore large binaries
+*.pyd
+*.dll
+*.lib
+*.bin
+*.sqlite3
+
+# Ignore local database and cache files
+chroma_db/
+*.db
+*.sqlite
+.env

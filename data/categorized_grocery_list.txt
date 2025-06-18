@@ -1,0 +1,59 @@
+Here is the categorized and sorted list of grocery items:
+
+**Produce:**
+1. Apples
+2. Bananas
+3. Blueberries
+4. Broccoli
+5. Carrots
+6. Cauliflower
+7. Cucumbers
+8. Grapes
+9. Green Beans
+10. Lettuce
+11. Mushrooms
+12. Onions
+13. Oranges
+14. Peas
+15. Potatoes
+16. Spinach
+17. Strawberries
+18. Tomatoes
+19. Zucchini
+
+**Dairy:**
+1. Butter
+2. Cheese
+3. Eggs
+4. Milk
+5. Yogurt
+
+**Meat/Seafood:**
+1. Beef
+2. Chicken
+3. Fish
+4. Pork
+
+**Bakery:**
+1. Bread
+2. Flour
+3. Pasta
+
+**Pantry:**
+1. Cereal
+2. Coffee
+3. Honey
+4. Jam
+5. Oats
+6. Peanut Butter
+7. Rice
+8. Soy Sauce
+9. Sugar
+10. Tea
+11. Vegetable Oil
+12. Vinegar
+13. Water
+
+**Beverages:**
+1. Juice
+2. Olive Oil
